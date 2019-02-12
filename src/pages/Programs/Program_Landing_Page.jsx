@@ -14,6 +14,8 @@ import Program_Card_AM_Kenya_MSID from "../UofMExistingPrograms/Program_Cards_AM
 import Program_Cards_AO_Thailand_Intensive from "../UofMExistingPrograms/Program_Cards_AO/Program_Cards_AO_Thailand_Intensive";
 import Program_Cards_EU_France_Business from "../UofMExistingPrograms/Program_Cards_EU/Program_Cards_EU_France_Business";
 import Program_Cards_US_Ecuador_MSID from "../UofMExistingPrograms/Program_Cards_US/Program_Cards_US_Ecuador_MSID";
+import UofM_Argentina from "./Argentina/UofM_Argentina";
+import UofMProgram_Argentina from "./Argentina/UofMProgram_Argentina";
 
 class Program_Landing_Page extends React.Component {
     render() {
@@ -41,10 +43,10 @@ class Program_Landing_Page extends React.Component {
                                     <MDBCol size="3">
                                         <Nav variant="pills" className="flex-column">
                                             <Nav.Item>
-                                                <Nav.Link eventKey="first">Especially for Australian student</Nav.Link>
+                                                <Nav.Link eventKey="first">Especially for Australian students</Nav.Link>
                                             </Nav.Item>
                                             <Nav.Item>
-                                                <Nav.Link eventKey="second">UofM Current Programs offering</Nav.Link>
+                                                <Nav.Link eventKey="second">UofM Current Programs</Nav.Link>
                                             </Nav.Item>
                                         </Nav>
                                     </MDBCol>
@@ -54,19 +56,20 @@ class Program_Landing_Page extends React.Component {
                                                 <MDBContainer>
                                                     <MDBRow>
                                                         <MDBCol>
-                                                            <h1 className="colorChange">Customized programs to suit Australian calender</h1>
+                                                            <h1 className="colorChange">Customised programs to suit the Australian calender</h1>
                                                             <hr/>
                                                         </MDBCol>
                                                     </MDBRow>
                                                     <MDBRow>
                                                         <MDBCol size="9">
-                                                            <h3 className="colorChange">Preview: </h3>
                                                             <br/>
                                                             <UofMProgram_France/>
                                                             <br/>
                                                             <UofMProgram_Ecuador_biodiversity/>
                                                             <br/>
                                                             <UofMProgram_Ecuador_indigenous/>
+                                                            <br/>
+                                                            <UofMProgram_Argentina/>
                                                             <br/>
                                                         </MDBCol>
                                                     </MDBRow>
@@ -82,13 +85,12 @@ class Program_Landing_Page extends React.Component {
                                                 <MDBContainer>
                                                     <MDBRow>
                                                         <MDBCol>
-                                                            <h1 className="colorChange">Current programs offering by The University of Minnesota</h1>
+                                                            <h1 className="colorChange">Current programs</h1>
                                                             <hr/>
                                                         </MDBCol>
                                                     </MDBRow>
                                                     <MDBRow>
                                                         <MDBCol size="9">
-                                                            <h3 className="colorChange">Preview: </h3>
                                                             <br/>
                                                             <Program_Card_AM_Kenya_MSID/>
                                                             <br/>

@@ -13,14 +13,14 @@ class UofMProgram_Argentina extends React.Component {
                     <MDBContainer id="UofMProgram" className="textChange">
                         <MDBCard style={{ width: "45em", height:"30em",marginTop: "0rem" }} className="text-center">
                             <MDBMask className="sa_color textSize_li white-text">
-                                <MDBCardHeader>Featured</MDBCardHeader>
+                                <MDBCardHeader></MDBCardHeader>
                             </MDBMask>
 
                             <MDBCardBody>
                                 <MDBJumbotron style={{  height:"24em",marginTop: "0em" }}>
-                                    <h1 className="h1-responsive textChange textSize_h">Buenos Aires, Argentina!</h1>
+                                    <h1 className="h1-responsive textChange textSize_h">Mental Health Program in Argentina!</h1>
                                     <p className="lead">
-                                        This is an exciting learning abroad program in Buenos Aires Argentina.
+                                        This is an exciting mental health program in Buenos Aires Argentina.
                                     </p>
                                     <hr className="my-2" />
                                     <ul className="text-left textChange" style={{ listStyleType: "dot", padding: 0 }}>
@@ -31,7 +31,7 @@ class UofMProgram_Argentina extends React.Component {
                                         </li>
                                         <li>
                                             <h6 className="textSize_li">
-                                                Term: 19th Jan - 9th Feb, 2020 (TBC)
+                                                Term: Jan (TBC)
                                             </h6>
                                         </li>
                                         <li>
@@ -57,7 +57,7 @@ class UofMProgram_Argentina extends React.Component {
                     <MDBContainer id="UofMProgram" className="textChange">
                         <MDBCard style={{ width: "35em", marginTop: "0rem" }} className="text-center">
                             <MDBMask className="sa_color white-text textSize_li">
-                                <MDBCardHeader>Featured</MDBCardHeader>
+                                <MDBCardHeader></MDBCardHeader>
                             </MDBMask>
 
                             <MDBCardBody>

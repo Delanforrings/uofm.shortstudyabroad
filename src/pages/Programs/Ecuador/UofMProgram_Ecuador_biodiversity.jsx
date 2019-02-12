@@ -12,7 +12,7 @@ class UofMProgram_Ecuador_biodiversity extends React.Component {
                     <MDBContainer id="UofMProgram" className="textChange">
                         <MDBCard style={{ width: "45em", height:"30em",marginTop: "0rem" }} className="text-center">
                             <MDBMask className="sa_color white-text textSize_li">
-                                <MDBCardHeader>Featured</MDBCardHeader>
+                                <MDBCardHeader></MDBCardHeader>
                             </MDBMask>
 
                             <MDBCardBody>
@@ -25,7 +25,7 @@ class UofMProgram_Ecuador_biodiversity extends React.Component {
                                     <ul className="text-left textChange" style={{ listStyleType: "dot", padding: 0 }}>
                                         <li >
                                             <h6 className="textSize_li">
-                                                Location: Ecuador
+                                                Location: Quito, Ecuador
                                             </h6>
                                         </li>
                                         <li>
@@ -56,7 +56,7 @@ class UofMProgram_Ecuador_biodiversity extends React.Component {
                     <MDBContainer id="UofMProgram" className="textChange">
                         <MDBCard style={{ width: "35em", marginTop: "0rem" }} className="text-center">
                             <MDBMask className="sa_color white-text textSize_li">
-                                <MDBCardHeader>Featured</MDBCardHeader>
+                                <MDBCardHeader></MDBCardHeader>
                             </MDBMask>
 
                             <MDBCardBody>

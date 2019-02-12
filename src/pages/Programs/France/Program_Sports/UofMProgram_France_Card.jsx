@@ -22,7 +22,7 @@ class UofMProgram_France extends React.Component {
                     <MDBContainer id="UofMProgram" className="textFont_P">
                         <MDBCard style={{ width: "45em", height:"30em",marginTop: "0rem" }} className="text-center">
                             <MDBMask className="e_Color">
-                                <MDBCardHeader className="textColor textSize_li">Featured</MDBCardHeader>
+                                <MDBCardHeader className="textColor textSize_li"></MDBCardHeader>
                             </MDBMask>
                             <MDBCardBody>
                                 <MDBJumbotron style={{  height:"24em",marginTop: "0em" }}>
