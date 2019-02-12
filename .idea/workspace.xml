@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef06b4d-35d3-497d-b506-6b295a616109" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/pages/Programs/Argentina/UofMProgram_Argentina.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Argentina/UofMProgram_Argentina.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/UofMProgram_Ecuador_biodiversity.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/UofMProgram_Ecuador_biodiversity.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/UofMProgram_Ecuador_indigenous.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/UofMProgram_Ecuador_indigenous.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/UofMProgram_France_Card.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/UofMProgram_France_Card.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Landing_Page.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Landing_Page.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,14 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program_Landing_Page.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program_Landing_Page.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Landing_Page.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="69" column="75" lean-forward="false" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
+            <state relative-caret-position="708">
+              <caret line="71" column="71" lean-forward="true" selection-start-line="71" selection-start-column="71" selection-end-line="71" selection-end-column="71" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UofMProgram_Argentina.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Argentina/UofMProgram_Argentina.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="77" column="54" lean-forward="false" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,10 +103,10 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/pages/UofMExistingPrograms/Program_Cards_AM/Program_Card_AM_Kenya_MSID.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/UofMProgram_France_Card.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Argentina/UofMProgram_Argentina.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Program_Landing_Page.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/UofMProgram_Ecuador_biodiversity.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/UofMProgram_Ecuador_indigenous.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Argentina/UofMProgram_Argentina.jsx" />
       </list>
     </option>
   </component>
@@ -296,12 +301,12 @@
       <workItem from="1549935600370" duration="74000" />
       <workItem from="1549935802662" duration="197000" />
       <workItem from="1549936105213" duration="9387000" />
-      <workItem from="1550012908718" duration="357000" />
+      <workItem from="1550012908718" duration="811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10808000" />
+    <option name="totallyTimeSpent" value="11262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -724,14 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Argentina/UofMProgram_Argentina.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="33" column="62" lean-forward="false" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/UofMProgram_Ecuador_biodiversity.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -750,11 +747,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Landing_Page.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="69" column="75" lean-forward="false" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
+        <state relative-caret-position="708">
+          <caret line="71" column="71" lean-forward="true" selection-start-line="71" selection-start-column="71" selection-end-line="71" selection-end-column="71" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Argentina/UofMProgram_Argentina.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="77" column="54" lean-forward="false" selection-start-line="77" selection-start-column="54" selection-end-line="77" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
