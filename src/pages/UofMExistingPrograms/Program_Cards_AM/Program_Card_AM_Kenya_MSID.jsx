@@ -11,9 +11,6 @@ class Program_Card_AM_Kenya_MSID extends Component {
         return (
 
             <div id="AM_Cards" className="Card_Shadow">
-                <Helmet>
-                    <title>Africa & Middle East Programs</title>
-                </Helmet>
                 <MDBRow className="AM_background">
                     <MDBCol xl="7" md="7" className="">
                         <h3>
