@@ -1,0 +1,32 @@
+#programEcuador .textSize {
+    font-size: 0.8vw;
+    font-family: Poppins;
+}
+
+#programEcuador .textColor {
+    color: #BD4D9C;
+    font-family: Poppins_Bold;
+    font-size: 1vw;
+}
+
+#programEcuador .v_table {
+    border: 0;
+    margin: 10px;
+    width: 100%;
+
+}
+
+#programEcuador .v_line {
+    border-right:2px solid #BD4D9C;
+    height:30px;
+}
+
+#programEcuador .colorChange {
+    color: #BD4D9C;
+}
+
+#programEcuador .textSize_li {
+    font-size: 1.4em;
+    font-family: 'Poppins', sans-serif;
+}
+

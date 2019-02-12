@@ -1,0 +1,35 @@
+#UofMProgram .textChange {
+    font-family: 'Oswald', sans-serif;
+}
+
+#UofMProgram .textFont_P{
+    font-family: 'Poppins', sans-serif;
+}
+
+#UofMProgram .textSize_h {
+    font-size: 1.4em;
+}
+
+#UofMProgram .textSize_li {
+    font-family: 'Poppins', sans-serif;
+}
+
+#UofMProgram .e_Color {
+    background-color: #7C3F00;
+}
+
+#UofMProgram .sa_color {
+    background-color: #BD4D9C;
+}
+
+#UofMProgram .noProgarms_color {
+    background-color: #862633;
+}
+
+#UofMProgram .textColor {
+    color: white;
+}
+
+#UofMProgram h6 {
+    font-size: 0.9em;
+}

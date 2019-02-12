@@ -1,0 +1,82 @@
+#AM_Cards .AM_background{
+    background-color: #B0D235;
+    padding-top: 1em;
+}
+
+#AM_Cards .US_background{
+    background-color: #BD4D9C;
+    padding-top: 1em;
+}
+
+#AM_Cards .AO_background{
+    background-color: #56C5D0;
+    padding-top: 1em;
+}
+
+#AM_Cards .EU_background{
+    background-color: #F58220;
+    padding-top: 1em;
+}
+
+#AM_Cards .VC_background{
+    background-color: #6A84C2;
+    padding-top: 1em;
+}
+
+#AM_Cards h1{
+    font-size: 1.4em;
+    font-family: 'Oswald',sans-serif;
+    color: #862633;
+}
+
+#AM_Cards h2{
+    font-size: 1.2em;
+    font-family: 'Oswald',sans-serif;
+    color: #862633;
+}
+#AM_Cards h3{
+    font-size: 1.1em;
+    font-family: 'Oswald',sans-serif;
+    color: white;
+}
+#AM_Cards h4{
+    font-size: 1em;
+    font-family: 'Oswald',sans-serif;
+    color: #862633;
+}
+#AM_Cards h5{
+    font-size: 0.8em;
+    font-family: 'Oswald',sans-serif;
+    color: white;
+}
+
+#AM_Cards p{
+    font-size: 0.75em !important;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+#AM_Cards a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Oswald',sans-serif;
+}
+
+#AM_Cards a:hover {
+    color: #334166;
+    text-decoration: none;
+
+}
+
+#AM_Cards .card_img{
+    margin-top: -1em;
+    height: 13em;
+    width: 17em;
+}
+
+#AM_Cards .m_card_img{
+    margin-left: -1.3em;
+
+    height: 16em;
+    width: 21em;
+}

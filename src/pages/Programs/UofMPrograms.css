@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+#UofM_Programs a:hover{
+    color: #FFB511;
+    text-decoration: none;
+    font-weight: none;
+    transition: 0.3s;
+}
+
+#UofM_Programs a {
+    font-family: Poppins;
+    color: #862633;
+    font-size: 1.2em;
+}
+
+#UofM_Programs p {
+    font-family:  Poppins;
+    font-size: 1em;
+}
+
+
+#UofM_Programs .homeText {
+    margin-top: 5em;
+    margin-left: -5em;
+}
+
+#UofM_Programs .m_homeText {
+    margin-top: 5em;
+    margin-left: -1.8em;
+}
+
+#UofM_Programs .colorChange{
+    font-family: 'Oswald',sans-serif;
+    color: #862633;
+}
+
+#UofM_Programs .textChange{
+    font-size: em;
+}
+
+#UofM_Programs h4 {
+    font-size: 1em;
+}
+
+#UofM_Programs h6 {
+    font-size: 0.9em;
+}
+
+#UofM_Programs .about-profile-pic {
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+    max-width: 100vw;
+    float: left;
+}
+
+#UofM_Programs .fontChange {
+    font-family: Poppins_Italic;
+
+}
+
+
+#UofM_Programs .backgroundGradient {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-image: linear-gradient(white, #862633);
+}
+
+#UofM_Programs .e_gradient {
+    box-shadow: 45px 45px 5px rgba(0, 0, 0, 0.2), 90px 90px rgba(245, 130, 32, 100);
+}
+
+#UofM_Programs .sa_gradient {
+    box-shadow: 45px 45px 5px rgba(0, 0, 0, 0.2), 90px 90px rgba(189, 77, 156, 100);
+}
+
+#UofM_Programs .program_gradient {
+    box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.2), 40px 40px rgba(134, 38, 51, 100);
+}
+
+#UofM_Programs .new{
+    color: #862634;
+    font-size: 1vw;
+    text-decoration: none;
+}
+
+#UofM_Programs .ProgramText{
+
+    color: #862634;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+
+#UofM_Programs .SideNavbar{
+    margin-left: -2em;
+    margin-top: 5em;
+}
+
+
+#UofM_Programs .SidebarText_SA{
+    font-size: 1.2em;
+    color: #862634;
+}
+
+#UofM_Programs .SidebarText_SA:hover{
+    font-size: 1.3em;
+    color: #B0D235;
+}
+
+#UofM_Programs .SidebarText_US{
+    font-size: 1.2em;
+    color: #862634;
+}
+
+#UofM_Programs .SidebarText_US:hover{
+    font-size: 1.3em;
+    color: #BD4D9C;
+}
+
+#UofM_Programs .SidebarText_AO{
+    font-size: 1.2em;
+    color: #862634;
+}
+
+#UofM_Programs .SidebarText_AO:hover{
+    font-size: 1.3em;
+    color: #56C5D0;
+}
+
+#UofM_Programs .SidebarText_EU{
+    font-size: 1.2em;
+    color: #862634;
+}
+
+#UofM_Programs .SidebarText_EU:hover{
+    font-size: 1.3em;
+    color: #F58220;
+}
+
+#UofM_Programs .SidebarText_VC{
+    font-size: 1.2em;
+    color: #862634;
+}
+
+#UofM_Programs .SidebarText_VC:hover{
+    font-size:1.3em;
+    color: #6A84C2;
+}
+
+#UofM_Programs .SidebarText{
+    font-size: 1.2em;
+    color: #862634;
+}
+
+#UofM_Programs .SidebarText:hover{
+    font-size: 1.3em;
+    color: #FFB511;
+}
+
+#UofM_Programs .FooterPos {
+    margin-top: 20%;
+}

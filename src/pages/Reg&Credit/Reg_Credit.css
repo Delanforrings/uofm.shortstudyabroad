@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+#UofM_R_C a:hover{
+    color: #FFB511;
+    text-decoration: none;
+    font-weight: none;
+    transition: 0.3s;
+}
+
+#UofM_R_C a {
+    font-family: Poppins;
+    color: #862633;
+    font-size: 1em;
+}
+
+#UofM_R_C p {
+    font-family:  Poppins;
+    font-size: 1em;
+}
+
+
+#UofM_R_C .homeText{
+    margin-top: 5em;
+}
+
+#UofM_R_C .colorChange{
+    font-family: 'Oswald', sans-serif;
+    color: #862633;
+}
+
+#UofM_R_C .textChange_li_p{
+    font-size: 1em;
+}
+
+
+#UofM_R_C h4 {
+    font-size: 1em;
+}
+
+#UofM_R_C h1 {
+    font-size: 1.6em;
+}
+
+#UofM_R_C h3 {
+    font-size: 1.2em;
+}
+
+#UofM_R_C .about-profile-pic {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+#UofM_R_C .fontChange {
+    font-family: Poppins_Italic;
+
+}
+
+
+#UofM_R_C .backgroundGradient {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-image: linear-gradient(white, #862633);
+}
+
+#UofM_R_C .e_gradient {
+    box-shadow: 45px 45px 5px rgba(0, 0, 0, 0.2), 90px 90px rgba(245, 130, 32, 100);
+}
+
+#UofM_R_C .sa_gradient {
+    box-shadow: 45px 45px 5px rgba(0, 0, 0, 0.2), 90px 90px rgba(189, 77, 156, 100);
+}
+
+#UofM_R_C .program_gradient {
+    box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.2), 40px 40px rgba(134, 38, 51, 100);
+}
+
+#UofM_R_C .new{
+    color: #862634;
+    font-size: 1vw;
+    text-decoration: none;
+}
+
+#UofM_R_C .ProgramText{
+    color: #862634;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+
+#UofM_R_C .text_bold{
+    font-family: 'Poppins_Bold', sans-serif;
+    color: black;
+}
+
+#UofM_R_C .text_underline{
+    text-decoration: underline;
+}

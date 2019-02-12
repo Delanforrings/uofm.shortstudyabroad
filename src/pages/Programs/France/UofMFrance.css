@@ -1,0 +1,102 @@
+#programFrance p {
+    font-family: "Poppins", sans-serif;
+}
+
+#programFrance .textColor {
+    color: #F58220;
+    font-family: 'Poppins_Bold', sans-serif;
+    font-size: 1em;
+}
+
+#programFrance .text_note{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+
+#programFrance .v_table {
+    border: 0;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+#programFrance .v_line {
+    border-right:2px solid #F58220;
+    height:10px;
+}
+
+#programFrance .colorChange {
+    font-family: 'Oswald', sans-serif;
+    color: #F58220;
+}
+
+#programFrance .hr_color {
+    background-color: #F58220;
+}
+
+#programFrance .lightBox_img{
+    width:  150px;
+    height: 150px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+#programFrance .m_lightBox_img{
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+#programFrance .font_Change{
+    font-family: Poppins_Italic;
+    font-size: 1em;
+    color: grey;
+}
+
+#programFrance .font_Change_out{
+    font-family: Poppins_Italic;
+    font-size: 1em;
+    color: grey;
+}
+
+#programFrance .a_link{
+    font-size: 1em;
+    text-decoration: underline;
+    color: #862633;
+}
+
+#programFrance .a_li_link{
+    font-size: 1em;
+    text-decoration: underline;
+    color: #862633;
+}
+
+#programFrance .table_color{
+    color: white;
+    background-color: #F58220;
+}
+
+#programFrance .table_text{
+
+    color: darkgray;
+    background-color: #7C3F00;
+}
+
+
+#programFrance h4 {
+    font-size: 1em;
+}
+
+#programFrance h1 {
+    font-size: 1.6em;
+}
+
+#programFrance h3 {
+    font-size: 1.2em;
+}
+
+#programFrance h2 {
+    font-size: 1.4em;
+}

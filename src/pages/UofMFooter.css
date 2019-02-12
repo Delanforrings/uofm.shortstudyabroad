@@ -1,0 +1,13 @@
+#UofMFooter .UofMFooter {
+    color: black;
+    font-size: 0.8em;
+}
+
+#UofMFooter .pStatement {
+    text-decoration: underline;
+}
+
+#UofMFooter.FooterPos {
+    height: 40px;
+    margin-top: -40px;
+}

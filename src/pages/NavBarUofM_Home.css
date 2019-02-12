@@ -1,0 +1,51 @@
+#UofMNav .UofMtabs {
+    font-size: 1em;
+    color: white;
+    font-family: Poppins;
+    padding: 0.5em 1.5em;
+
+}
+
+#UofMNav .UofMtabs:hover{
+    color: #862633;
+
+    background-color: #FFB511;
+}
+
+#UofMNav .UofMtabs_d {
+    font-size: 1em;
+    color: white;
+    font-family: Poppins;
+    padding: 0.45em 1.5em;
+}
+
+#UofMNav .UofMtabs_d:hover {
+    color: #862633;
+
+    background-color: #FFB511;
+}
+
+#UofMNav .uofm_color{
+    background-color: #862633;
+    z-index: -1;
+}
+
+#UofMNav .UofMtabs_dd{
+    font-size: 1em;
+    font-family: Poppins;
+    color: #FFB511;
+}
+#UofMNav h3{
+    font-size: 1em !important;
+    font-family: Poppins;
+    color: #FFB511;
+}
+
+#UofMNav .btn_exit_left{
+    color: white;
+    size: 1.6em !important;
+}
+
+#UofMNav button.navbar-toggler {
+    color: black;
+}

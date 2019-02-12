@@ -1,0 +1,33 @@
+#programArgentina .textSize {
+    font-size: 0.8vw;
+    font-family: Poppins;
+}
+
+#programArgentina .textColor {
+    color: #BD4D9C;
+    font-family: Poppins_Bold;
+    font-size: 1vw;
+}
+
+#programArgentina .v_table {
+    border: 0;
+    margin: 10px;
+    width: 100%;
+
+}
+
+#programArgentina .v_line {
+    border-right:2px solid #BD4D9C;
+    height:30px;
+}
+
+#programArgentina .colorChange {
+    color: #BD4D9C;
+}
+
+#programArgentina .textSize_li {
+    font-size: 1.4em;
+    font-family: 'Poppins', sans-serif;
+}
+
+
