@@ -47,7 +47,7 @@ class UofMPrograms_US extends React.Component{
                                             <a href="/AU_Programs/Africa_MidEast" className="SidebarText_SA">Africa & Middle East</a>
                                         </li>
                                         <li>
-                                            <a href="/AU_Programs/America" className="SidebarText_US">Americas</a>
+                                            <a href="/AU_Programs/America" className="SidebarText_US">America</a>
                                         </li>
                                         <li>
                                             <a href="/AU_Programs/Asia_Oceania" className="SidebarText_AO">Asia & Oceania</a>
@@ -107,7 +107,7 @@ class UofMPrograms_US extends React.Component{
                                             <a href="/AU_Programs/Africa_MidEast" className="SidebarText_SA">Africa & Middle East</a>
                                         </li>
                                         <li>
-                                            <a href="/AU_Programs/America" className="SidebarText_US">Americas</a>
+                                            <a href="/AU_Programs/America" className="SidebarText_US">America</a>
                                         </li>
                                         <li>
                                             <a href="/AU_Programs/Asia_Oceania" className="SidebarText_AO">Asia & Oceania</a>
