@@ -31,7 +31,7 @@ class UofMProgram_Argentina extends React.Component {
                                         </li>
                                         <li>
                                             <h6 className="textSize_li">
-                                                Term: Jan 22 (Dates TBC)
+                                                Term: Jan 2020 (Dates TBC)
                                             </h6>
                                         </li>
                                         <li>

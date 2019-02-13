@@ -43,7 +43,7 @@ class Ecuador_biodiversity_Academics extends React.Component {
                 </p>
                 <br/>
                 <p>
-                    See the DRAFT <a className="a_li_link" href={Pdf_1} target="_blank">schedule</a> with Galapagos and <a className="a_li_link" href={Pdf_2} target="_blank">schedule</a> without Galapagos for the examples of the program and activities involved.
+                    See the DRAFT <a className="a_li_link" href={Pdf_1} target="_blank">schedule</a> with Galapagos and <a className="a_li_link" href={Pdf_2} target="_blank">schedule</a> without Galapagos for examples of the program and activities involved.
                 </p>
                 <br/>
                 <h2 className="colorChange">Coursework</h2>
