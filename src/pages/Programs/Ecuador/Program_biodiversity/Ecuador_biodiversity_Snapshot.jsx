@@ -9,7 +9,7 @@ class Ecuador_biodiversity_Snapshot extends React.Component {
                 <MDBContainer>
                     <MDBRow>
                         <MDBCol>
-                            <h1 className="colorChange">Biodiversity in Ecuador Program — Snapshot</h1>
+                            <h1 className="colorChange">Biodiversity in Ecuador — Snapshot</h1>
                             <h2 className="colorChange">Program Details</h2>
                             <p>
                                 Ecuador is one of the 17 countries classified as mega-diverse. Ecuador consists of 14

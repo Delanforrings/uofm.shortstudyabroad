@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef06b4d-35d3-497d-b506-6b295a616109" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AM.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AM.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AO.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AO.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_All.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_All.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_EU.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_EU.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_Featured.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_Featured.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_US.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_US.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_VC.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_VC.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_About.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_About.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Academics.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Academics.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Apply.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Apply.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact_Alum.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact_Alum.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Dates.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Dates.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Fees.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Fees.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Media.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Media.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Snapshot.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Snapshot.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/schedule_with_g.pdf" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/schedule_with_g.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/schedule_without_g.pdf" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/schedule_without_g.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Academics.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Academics.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Fees.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Fees.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigeous_Dates.jsx" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigeous_Dates.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_schedule.pdf" afterPath="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_schedule.pdf" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +31,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ecuador_biodiversity_SideBarRouter.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_SideBarRouter.jsx">
+      <file leaf-file-name="Ecuador_biodiversity_Snapshot.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Snapshot.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="28" column="129" lean-forward="false" selection-start-line="28" selection-start-column="129" selection-end-line="28" selection-end-column="129" />
+            <state relative-caret-position="420">
+              <caret line="35" column="99" lean-forward="false" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="99" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ecuador_biodiversity_About.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_About.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -34,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ecuador_biodiversity_Page_Structure_Contact_Alum.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Contact_Alum.jsx">
+      <file leaf-file-name="Ecuador_biodiversity_Academics.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Academics.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="101" column="30" lean-forward="false" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+            <state relative-caret-position="279">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -46,98 +67,78 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UofMPrograms_US.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_US.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="109" column="109" lean-forward="false" selection-start-line="109" selection-start-column="109" selection-end-line="109" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UofMPrograms_All.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_All.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="51" column="109" lean-forward="false" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UofMPrograms_AM.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AM.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="96" column="109" lean-forward="false" selection-start-line="96" selection-start-column="109" selection-end-line="96" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UofMPrograms_AO.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AO.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="96" column="109" lean-forward="true" selection-start-line="96" selection-start-column="109" selection-end-line="96" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UofMPrograms_EU.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_EU.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="48" column="109" lean-forward="true" selection-start-line="48" selection-start-column="109" selection-end-line="48" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UofMPrograms_Featured.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_Featured.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="50" column="109" lean-forward="false" selection-start-line="50" selection-start-column="109" selection-end-line="50" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UofMPrograms_VC.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_VC.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="96" column="109" lean-forward="false" selection-start-line="96" selection-start-column="109" selection-end-line="96" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ecuador_biodiversity_Contact_Alum.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact_Alum.jsx">
+      <file leaf-file-name="Ecuador_biodiversity_Contact.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="76" lean-forward="false" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+              <caret line="7" column="67" lean-forward="false" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ecuador_biodiversity_Fees.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Fees.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ecuador_Indigenous_Media.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Media.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="62" column="89" lean-forward="false" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ecuador_Indigenous_Fees.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Fees.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UofMFrance.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/France/UofMFrance.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ecuador_biodiversity_Media.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Media.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="62" column="67" lean-forward="false" selection-start-line="62" selection-start-column="67" selection-end-line="62" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UofMProgram_Ecuador_biodiversity.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="65" column="190" lean-forward="false" selection-start-line="65" selection-start-column="190" selection-end-line="65" selection-end-column="190" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Dates.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Media.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Snapshot.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/France_Page_Structure_About.jsx" />
@@ -180,7 +180,6 @@
         <option value="$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/France_Page_Structure_Media.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/France_Page_Structure_Snapshot.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Contact/UofM_Contact.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Fees.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Contact.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Fees.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Contact.jsx" />
@@ -188,27 +187,16 @@
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Contact_Alum.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Contact_Alum.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_SideBarRouter.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigeous_Dates.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Apply.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Snapshot.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/ProgramsSideBarRouter.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Media.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Media.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Snapshot.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_About.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_About.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Academics.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Academics.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Dates.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Dates.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Fees.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Fees.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Apply.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Apply.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Contact.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact_Alum.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_SideBarRouter.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Contact_Alum.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_US.jsx" />
@@ -218,6 +206,19 @@
         <option value="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_EU.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_Featured.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_VC.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Academics.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigeous_Dates.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Snapshot.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Apply.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact_Alum.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Dates.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Media.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_About.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Academics.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Fees.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Fees.jsx" />
       </list>
     </option>
   </component>
@@ -326,7 +327,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Program_Cards_Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="Ecuador" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uofm.shortstudyabroad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uofm.shortstudyabroad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Ecuador" type="462c0819:PsiDirectoryNode" />
+              <item name="Program_indigenous" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="uofm.shortstudyabroad" type="b2602c69:ProjectViewProjectNode" />
@@ -393,12 +403,12 @@
       <workItem from="1549935600370" duration="74000" />
       <workItem from="1549935802662" duration="197000" />
       <workItem from="1549936105213" duration="9387000" />
-      <workItem from="1550012908718" duration="9966000" />
+      <workItem from="1550012908718" duration="11030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20417000" />
+    <option name="totallyTimeSpent" value="21481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -457,26 +467,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/France_Page_Structure_Dates.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="121" column="97" lean-forward="true" selection-start-line="121" selection-start-column="97" selection-end-line="121" selection-end-column="97" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/France/Program_Sports/France_Page_Structure_Media.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="122" column="95" lean-forward="false" selection-start-line="122" selection-start-column="95" selection-end-line="122" selection-end-column="95" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Contact/UofM_Contact.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -519,26 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="40" column="95" lean-forward="false" selection-start-line="40" selection-start-column="95" selection-end-line="40" selection-end-column="95" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Academics.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="39" column="99" lean-forward="false" selection-start-line="39" selection-start-column="99" selection-end-line="39" selection-end-column="99" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Media.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="62" column="89" lean-forward="false" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="89" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
@@ -603,26 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Snapshot.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="112" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="112" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Fees.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="89" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="89" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Apply.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -673,28 +623,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigeous_Dates.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="8" column="89" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="89" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/ProgramsSideBarRouter.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="90" column="143" lean-forward="false" selection-start-line="90" selection-start-column="143" selection-end-line="90" selection-end-column="143" />
           <folding />
         </state>
       </provider>
@@ -709,30 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Media.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="62" column="75" lean-forward="false" selection-start-line="62" selection-start-column="75" selection-end-line="62" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Snapshot.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="87" column="45" lean-forward="true" selection-start-line="53" selection-start-column="40" selection-end-line="87" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Academics.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="10" column="75" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="75" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -769,50 +681,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Fees.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="40" lean-forward="false" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_About.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Dates.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="56" column="39" lean-forward="false" selection-start-line="56" selection-start-column="39" selection-end-line="90" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="75" lean-forward="false" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Apply.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="75" lean-forward="false" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -839,100 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Snapshot.jsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_VC.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Dates.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact_Alum.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="76" lean-forward="false" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_SideBarRouter.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="28" column="129" lean-forward="false" selection-start-line="28" selection-start-column="129" selection-end-line="28" selection-end-column="129" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Contact_Alum.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="101" column="30" lean-forward="false" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_US.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="109" column="109" lean-forward="false" selection-start-line="109" selection-start-column="109" selection-end-line="109" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_All.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="51" column="109" lean-forward="false" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AM.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="96" column="109" lean-forward="false" selection-start-line="96" selection-start-column="109" selection-end-line="96" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AO.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="96" column="109" lean-forward="true" selection-start-line="96" selection-start-column="109" selection-end-line="96" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_EU.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="48" column="109" lean-forward="true" selection-start-line="48" selection-start-column="109" selection-end-line="48" selection-end-column="109" />
+        <state relative-caret-position="223">
+          <caret line="96" column="73" lean-forward="false" selection-start-line="96" selection-start-column="73" selection-end-line="96" selection-end-column="73" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -949,13 +731,229 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_VC.jsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_EU.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
+        <state relative-caret-position="627">
+          <caret line="48" column="109" lean-forward="true" selection-start-line="48" selection-start-column="109" selection-end-line="48" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AO.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="96" column="109" lean-forward="true" selection-start-line="96" selection-start-column="109" selection-end-line="96" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_AM.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
           <caret line="96" column="109" lean-forward="false" selection-start-line="96" selection-start-column="109" selection-end-line="96" selection-end-column="109" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_All.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="51" column="109" lean-forward="false" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Program_Cards_Collection/UofMPrograms_US.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="109" column="109" lean-forward="false" selection-start-line="109" selection-start-column="109" selection-end-line="109" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Page_Structure_Contact_Alum.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="101" column="30" lean-forward="false" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_SideBarRouter.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="28" column="129" lean-forward="false" selection-start-line="28" selection-start-column="129" selection-end-line="28" selection-end-column="129" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigeous_Dates.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Academics.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="42" column="59" lean-forward="true" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Page_Structure_Academics.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-359">
+          <caret line="39" column="99" lean-forward="false" selection-start-line="39" selection-start-column="99" selection-end-line="39" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Snapshot.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="29" column="99" lean-forward="true" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Apply.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="67" lean-forward="false" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact_Alum.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="67" lean-forward="false" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Dates.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="28" column="100" lean-forward="false" selection-start-line="28" selection-start-column="100" selection-end-line="28" selection-end-column="100" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Contact.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="67" lean-forward="false" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Media.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="62" column="67" lean-forward="false" selection-start-line="62" selection-start-column="67" selection-end-line="62" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="65" column="190" lean-forward="false" selection-start-line="65" selection-start-column="190" selection-end-line="65" selection-end-column="190" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Snapshot.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="99" lean-forward="false" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="99" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_About.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Academics.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/France/UofMFrance.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_biodiversity/Ecuador_biodiversity_Fees.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Media.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="62" column="89" lean-forward="false" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Programs/Ecuador/Program_indigenous/Ecuador_Indigenous_Fees.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>

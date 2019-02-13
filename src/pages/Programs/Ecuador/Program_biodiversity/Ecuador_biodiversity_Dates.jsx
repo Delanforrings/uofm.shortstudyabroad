@@ -6,7 +6,7 @@ class Ecuador_biodiversity_Dates extends React.Component {
     render() {
         return (
             <div id="programEcuador">
-                <h1 className="colorChange">Biodiversity in Ecuador Program — Dates</h1>
+                <h1 className="colorChange">Biodiversity in Ecuador — Dates</h1>
                 <br/>
                 <h2 className="colorChange">Dates & Deadlines</h2>
                 <br/>
@@ -26,7 +26,7 @@ class Ecuador_biodiversity_Dates extends React.Component {
                         </TableHead>
                         <TableBody >
                             <tr>
-                                <td className="textSize textColor">January 2020</td>
+                                <td className="textSize textColor">19th January – 9th February, 2020</td>
                                 <td className="textSize textColor"> TBC</td>
                                 <td className="textSize textColor"> TBC</td>
                             </tr>

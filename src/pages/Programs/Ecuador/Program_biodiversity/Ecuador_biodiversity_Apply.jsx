@@ -5,7 +5,7 @@ class Ecuador_biodiversity_Apply extends React.Component {
     render() {
         return (
             <div id="programEcuador">
-                <h1 className="colorChange">Biodiversity in Ecuador Program — Apply</h1>
+                <h1 className="colorChange">Biodiversity in Ecuador — Apply</h1>
                 <p>/*insert link to customised UofM application system*/</p>
 
                 {/*<h2 className="colorChange">Prepare</h2>*/}

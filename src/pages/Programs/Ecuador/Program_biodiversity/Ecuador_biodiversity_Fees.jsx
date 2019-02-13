@@ -5,8 +5,8 @@ import { Table, TableBody, TableHead  } from 'mdbreact';
 class Ecuador_biodiversity_Fees extends React.Component {
     render() {
         return (
-            <div id="programFrance">
-                <h1 className="colorChange">Biodiversity in Ecuador Program — Fees</h1>
+            <div id="programEcuador">
+                <h1 className="colorChange">Biodiversity in Ecuador — Fees</h1>
                 <br/>
                 <h2 className="colorChange">Program Fees</h2>
                 <br/>

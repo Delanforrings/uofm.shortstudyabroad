@@ -8,7 +8,7 @@ class Ecuador_biodiversity_Academics extends React.Component {
     render() {
         return (
             <div id="programEcuador">
-                <h1 className="colorChange">Biodiversity in Ecuador Program — Academics</h1>
+                <h1 className="colorChange">Biodiversity in Ecuador — Academics</h1>
                 <br/>
                 <h2 className="colorChange">Program Structure</h2>
                 <br/>
@@ -34,16 +34,16 @@ class Ecuador_biodiversity_Academics extends React.Component {
                 </div>
                 <br/>
                 <p>
-                    This program promotes that students have an experiential experience in contact with nature,
+                    This program promotes that students have an experience in contact with nature,
                     understanding it as an active subject that interacts and manifests itself in different ways in
-                    their life. The program makes a theoretical review of basic concepts of forest ecology and
+                    their lifes. The program makes a theoretical review of basic concepts of forest ecology and
                     agroecology; starting from a practical approach that allows students to understand the
                     dynamics of the ecosystem under study. And learn about the importance of Ecuador's
                     biological and cultural mega-diversity.
                 </p>
                 <br/>
                 <p>
-                    See the example <a className="a_li_link" href={Pdf_1} target="_blank">schedule</a> with Galapagos and <a className="a_li_link" href={Pdf_2} target="_blank">schedule</a> with out Galapagos for an overview of the program and activities involved.
+                    See the DRAFT <a className="a_li_link" href={Pdf_1} target="_blank">schedule</a> with Galapagos and <a className="a_li_link" href={Pdf_2} target="_blank">schedule</a> without Galapagos for the examples of the program and activities involved.
                 </p>
                 <br/>
                 <h2 className="colorChange">Coursework</h2>
@@ -51,7 +51,7 @@ class Ecuador_biodiversity_Academics extends React.Component {
                 <Table>
                     <TableHead>
                         <tr>
-                            <th className="a_link table_color">Indigenous Healing & Public Health in Ecuador</th>
+                            <th className="a_link table_color">Biodiversity in Ecuador</th>
                             <th className="a_link table_color">TBC</th>
                         </tr>
                     </TableHead>
@@ -67,7 +67,7 @@ class Ecuador_biodiversity_Academics extends React.Component {
                     {/*Spend your morning examining sports, sports psychology and the nature of professional sports in France and then engage in a variety of sport activities in the afternoon. Classes are taught by University of Minnesota experts in the field.*/}
                 {/*</p>*/}
                 <br/>
-                <a className="a_link" href="#!">Syllabus for Indigenous Healing & Public Health in Ecuador (PDF)</a>
+                <a className="a_link" href="#!">Syllabus for Biodiversity in Ecuador (PDF)</a>
                 <br/>
 
 

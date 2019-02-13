@@ -60,7 +60,7 @@ class Ecuador_biodiversity_Media extends React.Component {
 
         return (
             <div id="programEcuador">
-                <h1 className="colorChange">Biodiversity in Ecuador Program — Media</h1>
+                <h1 className="colorChange">Biodiversity in Ecuador — Media</h1>
                 <BrowserView>
                     <div>
                         <Table>

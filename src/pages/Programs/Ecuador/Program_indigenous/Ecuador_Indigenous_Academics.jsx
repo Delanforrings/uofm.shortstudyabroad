@@ -37,7 +37,7 @@ class Ecuador_Indigenous_Academics extends React.Component {
                 </p>
                 <br/>
                 <p>
-                    See the example <a className="a_li_link" href={Pdf} target="_blank">schedule</a> for an overview of the program and activities involved.
+                    See the DRAFT <a className="a_li_link" href={Pdf} target="_blank">schedule</a> for the example of the program and activities involved.
                 </p>
                 <br/>
                 <h2 className="colorChange">Coursework</h2>

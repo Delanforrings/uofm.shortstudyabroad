@@ -17,7 +17,7 @@ class UofMProgram_Ecuador_biodiversity extends React.Component {
 
                             <MDBCardBody>
                                 <MDBJumbotron style={{  height:"24em",marginTop: "0em" }}>
-                                    <h1 className="h1-responsive textChange textSize_h">Biodiversity in Ecuador Program</h1>
+                                    <h1 className="h1-responsive textChange textSize_h">Biodiversity in Ecuador</h1>
                                     <p className="lead">
                                         Learn about the importance of Ecuador’s biological and cultural mega-diversity in Quito, with the possibility of a side excursion to Galapagos Island.
                                     </p>
@@ -61,9 +61,9 @@ class UofMProgram_Ecuador_biodiversity extends React.Component {
 
                             <MDBCardBody>
                                 <MDBJumbotron>
-                                    <h1 className="h1-responsive textChange textSize_h">Biodiversity in Ecuador Program</h1>
+                                    <h1 className="h1-responsive textChange textSize_h">Biodiversity in Ecuador</h1>
                                     <p className="lead">
-                                        This is an exciting learning abraod program in Ecuador.
+                                        Learn about the importance of Ecuador’s biological and cultural mega-diversity in Quito, with the possibility of a side excursion to Galapagos Island.
                                     </p>
                                     <hr className="my-2" />
                                     <ul className="text-left textChange" style={{ listStyleType: "dot", padding: 0 }}>

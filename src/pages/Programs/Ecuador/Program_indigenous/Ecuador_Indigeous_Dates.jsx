@@ -26,7 +26,7 @@ class Ecuador_Indigeous_Dates extends React.Component {
                         </TableHead>
                         <TableBody >
                             <tr>
-                                <td className="textSize textColor">January 2020</td>
+                                <td className="textSize textColor">19th January – 9th February, 2020</td>
                                 <td className="textSize textColor"> TBC</td>
                                 <td className="textSize textColor"> TBC</td>
                             </tr>

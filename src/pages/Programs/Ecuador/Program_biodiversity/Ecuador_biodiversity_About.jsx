@@ -7,11 +7,11 @@ class Ecuador_biodiversity_About extends React.Component {
     render() {
         return (
             <div id="programEcuador">
-                <h1 className="colorChange">Biodiversity in Ecuador Program — About</h1>
+                <h1 className="colorChange">Biodiversity in Ecuador — About</h1>
                 <p>
                     This program provides students a perspective about the relationship between the
                     environment, use and management of natural resources and local communities through the
-                    study of cases involving peoples'; rights over the environment, food sovereignty, water
+                    study of cases involving peoples' rights over the environment, food sovereignty, water
                     management, climate changes, sustainable development and local alternatives for the
                     management and conservation of natural resources.
                 </p>
