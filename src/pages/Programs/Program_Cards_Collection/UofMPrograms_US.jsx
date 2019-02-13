@@ -10,10 +10,10 @@ import ProgramBanner from '../Senegal4.jpg';
 import '../UofMPrograms.css';
 import {BrowserView, MobileView} from "react-device-detect";
 import { Helmet } from 'react-helmet';
-import UofMProgram_Ecuador from "../Ecuador/UofMProgram_Ecuador_indigenous";
+import UofMProgram_Ecuador from "../Ecuador/Program_indigenous/UofMProgram_Ecuador_indigenous";
 import UofMProgram_Argentina from "../Argentina/UofMProgram_Argentina";
-import UofMProgram_Ecuador_biodiversity from "../Ecuador/UofMProgram_Ecuador_biodiversity";
-import UofMProgram_Ecuador_indigenous from "../Ecuador/UofMProgram_Ecuador_indigenous";
+import UofMProgram_Ecuador_biodiversity from "../Ecuador/Program_biodiversity/UofMProgram_Ecuador_biodiversity";
+import UofMProgram_Ecuador_indigenous from "../Ecuador/Program_indigenous/UofMProgram_Ecuador_indigenous";
 
 class UofMPrograms_US extends React.Component{
     render (){

@@ -5,7 +5,7 @@ import { Jumbotron, Grid, Row, Col, Image } from 'react-bootstrap';
 import Programs_France_Sports from '../France/Program_Sports/France_Sports_Snapshot';
 
 import UofMProgram_France from '../France/Program_Sports/UofMProgram_France_Card';
-import UofMProgram_Ecuador from '../Ecuador/UofMProgram_Ecuador_indigenous';
+import UofMProgram_Ecuador from '../Ecuador/Program_indigenous/UofMProgram_Ecuador_indigenous';
 import UofMProgram_Argentina from '../Argentina/UofMProgram_Argentina';
 import UofMFooter from '../../UofMFooter';
 import Navbar from '../../NavBarUofM_Home';

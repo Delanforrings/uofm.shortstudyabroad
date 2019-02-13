@@ -26,12 +26,12 @@ class UofMFrance_Dates extends React.Component {
                         </TableHead>
                         <TableBody >
                             <tr>
-                                <td className="textSize textColor">January Session 2019</td>
+                                <td className="textSize textColor">January 2020</td>
                                 <td className="textSize textColor"> TBC</td>
                                 <td className="textSize textColor"> TBC</td>
                             </tr>
                             <tr>
-                                <td className="textSize">Depart U.S./Arrive in Montpellier</td>
+                                <td className="textSize">Depart Australia/Arrive in Montpellier</td>
                                 <td className="textSize"> </td>
                                 <td className="textSize">TBC</td>
                             </tr>
@@ -56,13 +56,6 @@ class UofMFrance_Dates extends React.Component {
                     </Table>
                 </div>
                 <br/>
-                <p className="text_note">
-                    *Applications after this deadline may be considered. Contact Maria Mantey at mant0023@umn.edu to inquire.
-                </p>
-                <p className="text_note">
-                    **If the deadline falls on a weekend, submit your materials on the following business day.
-                </p>
-                <br/>
 
                 <h2 className="colorChange">Orientation Dates & Locations</h2>
                 <br/>
@@ -84,7 +77,7 @@ class UofMFrance_Dates extends React.Component {
                     </TableHead>
                     <TableBody >
                         <tr>
-                            <td className="textSize">May Session 2019</td>
+                            <td className="textSize">January 2020</td>
                             <td className="textSize">TBD</td>
                             <td className="textSize">TBD</td>
                         </tr>

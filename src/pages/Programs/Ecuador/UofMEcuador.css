@@ -1,32 +1,102 @@
-#programEcuador .textSize {
-    font-size: 0.8vw;
-    font-family: Poppins;
+#programEcuador p {
+    font-family: "Poppins", sans-serif;
 }
 
 #programEcuador .textColor {
     color: #BD4D9C;
-    font-family: Poppins_Bold;
-    font-size: 1vw;
+    font-family: 'Poppins_Bold', sans-serif;
+    font-size: 1em;
+}
+
+#programEcuador .text_note{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
 }
 
 #programEcuador .v_table {
     border: 0;
-    margin: 10px;
     width: 100%;
-
+    font-family: 'Poppins', sans-serif;
 }
 
 #programEcuador .v_line {
     border-right:2px solid #BD4D9C;
-    height:30px;
+    height:10px;
 }
 
 #programEcuador .colorChange {
+    font-family: 'Oswald', sans-serif;
     color: #BD4D9C;
 }
 
-#programEcuador .textSize_li {
-    font-size: 1.4em;
-    font-family: 'Poppins', sans-serif;
+#programEcuador .hr_color {
+    background-color: #BD4D9C;
 }
 
+#programEcuador .lightBox_img{
+    width:  150px;
+    height: 150px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+#programEcuador .m_lightBox_img{
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+#programEcuador .font_Change{
+    font-family: Poppins_Italic;
+    font-size: 1em;
+    color: grey;
+}
+
+#programEcuador .font_Change_out{
+    font-family: Poppins_Italic;
+    font-size: 1em;
+    color: grey;
+}
+
+#programEcuador .a_link{
+    font-size: 1em;
+    text-decoration: underline;
+    color: #862633;
+}
+
+#programEcuador .a_li_link{
+    font-size: 1em;
+    text-decoration: underline;
+    color: #862633;
+}
+
+#programEcuador .table_color{
+    color: white;
+    background-color: #BD4D9C;
+}
+
+#programEcuador .table_text{
+
+    color: darkgray;
+    background-color: #621B50;
+}
+
+
+#programEcuador h4 {
+    font-size: 1em;
+}
+
+#programEcuador h1 {
+    font-size: 1.6em;
+}
+
+#programEcuador h3 {
+    font-size: 1.2em;
+}
+
+#programEcuador h2 {
+    font-size: 1.4em;
+}

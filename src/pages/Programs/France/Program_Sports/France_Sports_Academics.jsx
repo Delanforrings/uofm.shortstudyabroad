@@ -36,7 +36,7 @@ class UofMFrance_Academics extends React.Component {
                 </p>
                 <br/>
                 <p>
-                    See the sample <a className="a_li_link" href="https://umabroad.umn.edu/assets/files/Syllabi/Montpellier/Sports2018%20%20program%C2%A0.pdf">schedule</a> for an overview of the program and activities.
+                    See the previous example <a className="a_li_link" href="https://umabroad.umn.edu/assets/files/Syllabi/Montpellier/Sports2018%20%20program%C2%A0.pdf">schedule</a> for an overview of the program and activities involved.
                 </p>
                 <br/>
                 <h2 className="colorChange">Coursework</h2>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardHeader, MDBCardFooter, MDBBtn, MDBContainer, MDBJumbotron, MDBMask } from
         "mdbreact";
-import "../UofM_Program_Card.css";
+import "../../UofM_Program_Card.css";
 import {BrowserView, MobileView} from "react-device-detect";
 
 class UofMProgram_Ecuador_biodiversity extends React.Component {
@@ -44,7 +44,7 @@ class UofMProgram_Ecuador_biodiversity extends React.Component {
                                             </h6>
                                         </li>
                                     </ul>
-                                    <MDBBtn color="red darken-4" size="sm" className="textFont_P" href="/UofM/Program/Ecuador">
+                                    <MDBBtn color="red darken-4" size="sm" className="textFont_P" href="/AU_Programs/Ecuador_quito_biodiversity">
                                         Learn more
                                     </MDBBtn>
                                 </MDBJumbotron>
@@ -88,7 +88,7 @@ class UofMProgram_Ecuador_biodiversity extends React.Component {
                                             </h6>
                                         </li>
                                     </ul>
-                                    <MDBBtn color="red darken-4" size="sm" className="textFont_P" href="/UofM/Program/Ecuador">
+                                    <MDBBtn color="red darken-4" size="sm" className="textFont_P" href="/AU_Programs/Ecuador_quito_biodiversity">
                                         Learn more
                                     </MDBBtn>
                                 </MDBJumbotron>

@@ -37,7 +37,7 @@ class France_Page_Structure extends React.Component {
                                             <MDBBtn color="amber" className="textChange" href="mailto:uofm@shortstudyabroad.com">
                                                 Enquire
                                             </MDBBtn>
-                                            <MDBBtn color="red" className="textChange" href="http://web-app.gps.umn.edu/externalApplicant/">
+                                            <MDBBtn color="red" className="textChange" href="#!">
                                                 Apply now
                                             </MDBBtn>
                                         </MDBBtnGroup>
@@ -118,7 +118,7 @@ class France_Page_Structure extends React.Component {
                                             <MDBBtn color="amber" className="textChange" href="mailto:uofm@shortstudyabroad.com">
                                                 Enquire
                                             </MDBBtn>
-                                            <MDBBtn color="red" className="textChange" href="http://web-app.gps.umn.edu/externalApplicant/">
+                                            <MDBBtn color="red" className="textChange" href="#!">
                                                 Apply now
                                             </MDBBtn>
                                         </MDBBtnGroup>

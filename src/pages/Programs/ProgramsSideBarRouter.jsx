@@ -9,6 +9,8 @@ import Programs_SideBar_France from "./France/Program_Sports/SideBarRouter";
 import UofMPrograms_AO from "./Program_Cards_Collection/UofMPrograms_AO";
 import UofMPrograms_EU from "./Program_Cards_Collection/UofMPrograms_EU";
 import UofMPrograms_VC from "./Program_Cards_Collection/UofMPrograms_VC";
+import Ecuador_Indigenous_SideBarRouter from "./Ecuador/Program_indigenous/Ecuador_Indigenous_SideBarRouter";
+import Ecuador_biodiversity_SideBarRouter from "./Ecuador/Program_biodiversity/Ecuador_biodiversity_SideBarRouter";
 
 
 
@@ -30,6 +32,9 @@ class ProgramsSideBarRouter extends React.Component {
 
                 {/*Programs routing*/}
                 <Route path={`${this.props.match.path}/France_montpellier-sports`} component={Programs_SideBar_France} />
+                <Route path={`${this.props.match.path}/Ecuador_quito_indigenous`} component={Ecuador_Indigenous_SideBarRouter} />
+                <Route path={`${this.props.match.path}/Ecuador_quito_biodiversity`} component={Ecuador_biodiversity_SideBarRouter} />
+
 
             </div>
         )
