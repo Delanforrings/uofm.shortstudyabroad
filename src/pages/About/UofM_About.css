@@ -50,7 +50,8 @@
 }
 
 #UofMAbout .fontChange {
-    font-family: Poppins_Italic;
+    font-family: "Poppins_Italic", sans-serif;
+    color: black;
 
 }
 
